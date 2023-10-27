@@ -4,7 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 import seaborn as sns
-
+import tkinter as TK 
+from turtle import width
 
 # CARGAR LOS DATOS, CREAR Y LIMPIAR DATAFRAME BASE
 def data():
